@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Satya Krishnaveni!
 
-🌱 I’m currently learning **Full Stack Development**  
-💻 I love building projects with **React, Node.js, Express, MongoDB**  
-🚀 My goal is to become a **Tech Lead ** 
-📚 Always exploring new technologies and improving my skills  
-🤝 Let’s collaborate and build something amazing!
+ I’m currently learning **Full Stack Development**  
+ I love building projects with **React, Node.js, Express, MongoDB**  
+ My goal is to become a **Tech Lead ** 
+ Always exploring new technologies and improving my skills  
+ Let’s collaborate and build something amazing!
 
 ---
 
